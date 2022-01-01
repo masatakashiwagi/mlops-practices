@@ -6,6 +6,8 @@ copyright = "© masatakashiwagi"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+# Github Pagesでwebページを公開する用
+publishDir = "docs"
 
 [params]
 	author = "Masataka Kashiwagi"
