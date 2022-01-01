@@ -1,0 +1,31 @@
+baseURL = "https://github.com/masatakashiwagi/mlops-practices"
+title = "MLOps - Practices"
+languageCode = "ja"
+theme = "archie"
+copyright = "© masatakashiwagi"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	author = "Masataka Kashiwagi"
+	subtitle = "MLOpsに対する各社の取り組みを紹介"
+	keywords = "MLOps"
+	mode = "light"
+	useCDN = false
+	favicon = "favicon/favicon-16x16.png"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/masatakashiwagi/mlops-practices"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/asteriam_fp"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
