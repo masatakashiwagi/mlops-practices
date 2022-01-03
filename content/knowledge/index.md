@@ -13,6 +13,9 @@ date: 2021-01-01 12:00:00
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
 
+# Study meetings
+- [connpass - MLOps](https://mlops.connpass.com/)
+
 # Conferences
 - [MLSys](https://mlsys.org/)
 - [OpML](https://www.usenix.org/conferences/byname/1027)
