@@ -1,17 +1,30 @@
-{{ define "main" }}
-{{ if isset .Data "Term" }}
-<h1>Entries tagged - "{{ .Data.Term }}"</h1>
-{{ else }}
-<h1 class="page-title">All articles</h1>
-{{ end }}
+{{ define "main"}}
+<div id="archive">
+  <ul class="post-list">
 
-<ul class="posts">
-	{{- range .Data.Pages -}}
-		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-		<li class="post">
-			<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
-		</li>
-		{{- end -}}
-	{{- end -}}
-</ul>
+  {{ $pages := .Paginator.Pages }}
+  {{ if .Site.Params.showAllPostsArchive }}
+    {{ $pages = .Pages }}
+  {{ end }}
+
+  {{ range (sort $pages "Date" "desc") }}
+    {{ $pageYear := (.Date.Format "2006") }}
+    {{ if (ne $pageYear ($.Scratch.Get "year")) }}
+    {{ $.Scratch.Set "year" $pageYear }}
+    <h2>{{ $pageYear }}</h2>
+    {{ end }}
+    <li class="post-item">
+      <div class="meta">
+        <time datetime="{{ time .Date }}" itemprop="datePublished">{{ .Date.Format (.Site.Params.dateFormat | default "2006-01-02") }}</time>
+      </div>
+      <span>    
+        <a class="" href="{{ .Permalink }}">{{ if .Title }} {{ .Title }} {{ else }} Untitled {{ end }}</a>
+      </span>
+    </li>
+    {{ end }}
+  </ul>
+  {{ if eq .Site.Params.showAllPostsArchive false }}
+    {{ partial "pagination.html" . }}
+  {{ end }}
+</div>
 {{ end }}

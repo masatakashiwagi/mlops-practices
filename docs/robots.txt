@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /knowledge/
+Disallow: /tips/
+Sitemap: https://masatakashiwagi.github.io/mlops-practices/sitemap.xml

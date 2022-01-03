@@ -1,33 +1,97 @@
-baseURL = "https://github.com/masatakashiwagi/mlops-practices"
-title = "MLOps - Practices"
+baseURL = "https://masatakashiwagi.github.io/mlops-practices/"
 languageCode = "ja"
-theme = "archie"
-copyright = "© masatakashiwagi"
+title = "MLOps - Practices"
+theme = "cactus"
+copyright = "masatakashiwagi"
+# googleAnalytics = ""
+enableEmoji = true
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
 # Github Pagesでwebページを公開する用
 publishDir = "docs"
 
-[params]
-	author = "Masataka Kashiwagi"
-	subtitle = "MLOpsに対する各社の取り組みを紹介"
-	keywords = "MLOps"
-	mode = "light"
-	useCDN = false
-	favicon = "favicon/favicon-16x16.png"
+# summaryLength = 2
 
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/masatakashiwagi/mlops-practices"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/asteriam_fp"
-
+# Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+
+[[menu.main]]
+name = "Knowledge"
+url = "/knowledge"
+weight = 2
+
+[[menu.main]]
+name = "Tips"
+url = "/tips"
+weight = 3
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+[params]
+  author = "Masataka Kashiwagi"
+	subtitle = "MLOpsに対する各社の取り組みを整理したDocs"
+	keywords = "MLOps"
+
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  showAllPostsArchive = false # default
+
+  # Home page settings
+  description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = true # show tags overview by default.
+  showProjectsList = true # show projects list by default (if projects data file exists).
+  projectsUrl = "" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = true # default
+  showReadTime = true # default
+
+  [params.comments]
+    enabled = false # default
+    engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
+    [params.comments.utterances]
+      repo = "<github_username>/<github_reponame>"
+      label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
+      theme = "github-light"
+    [params.comments.cactuscomments]
+      siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
+      #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      #serverName = "" # Defaults to cactus.chat
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/masatakashiwagi/mlops-practices"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/asteriam_fp"
+  [[params.social]]
+    name = "rss"
+    link = "https://masatakashiwagi.github.io/mlops-practices/index.xml"

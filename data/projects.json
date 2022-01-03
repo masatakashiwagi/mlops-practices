@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Knowledge",
+      "url":"https://masatakashiwagi.github.io/mlops-practices/knowledge/",
+      "desc":"MLOpsに対する各社の取り組みを整理したリンク集"
+    },
+    {
+      "name":"Tips",
+      "url":"https://masatakashiwagi.github.io/mlops-practices/tips/",
+      "desc":"MLOpsに関連したサービスやプロダクトに関するTips"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SML on MLOps - Practices</title>
+    <link>https://masatakashiwagi.github.io/mlops-practices/tags/sml/</link>
+    <description>Recent content in SML on MLOps - Practices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>masatakashiwagi</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 09:00:00 +0000</lastBuildDate><atom:link href="https://masatakashiwagi.github.io/mlops-practices/tags/sml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standard ML notes</title>
+      <link>https://masatakashiwagi.github.io/mlops-practices/posts/2019-12-30-standardml-notes/</link>
+      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://masatakashiwagi.github.io/mlops-practices/posts/2019-12-30-standardml-notes/</guid>
+      <description>Basics Comments 1(* SML comment *) Variable bindings and Expressions 1val x = 34; 2(* static environment: x : int *) 3(* dynamic environment: x --&amp;gt; 34 *) 4val y = x + 1; 5 6(* Use tilde character instead of minus to reprsent negation *) 7val z = ~1; 8 9(* Integer Division *) 10val w = y div x Strings:
+1(* `\n`のようなエスケープシーケンスが利用できる *) 2val x = &amp;#34;hello\n&amp;#34;; 3(* 文字列の連結には&amp;#39;^&amp;#39;を使う *) 4val y = &amp;#34;hello &amp;#34; ^ &amp;#34;world&amp;#34;; An ML program is a sequence of bindings.</description>
+    </item>
+    
+  </channel>
+</rss>
