@@ -4,7 +4,7 @@
     {{ .Site.Params.description | $.Page.RenderString }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+      <p>連絡先はこちらになります →
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
@@ -27,7 +27,7 @@
         {{ if (lt (add $index 2) $length) }}
           {{- print " , " -}}
         {{ else if (lt (add $index 1) $length) }}
-          {{- print " and " -}}
+          {{- print " & " -}}
         {{ else }}
           {{- print "." -}}
         {{ end }}

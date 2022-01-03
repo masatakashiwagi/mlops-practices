@@ -6,34 +6,6 @@
     <description>Recent content in Categories on MLOps - Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>masatakashiwagi</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://masatakashiwagi.github.io/mlops-practices/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tech</title>
-      <link>https://masatakashiwagi.github.io/mlops-practices/categories/tech/</link>
-      <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
-      
-      <guid>https://masatakashiwagi.github.io/mlops-practices/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notes</title>
-      <link>https://masatakashiwagi.github.io/mlops-practices/categories/notes/</link>
-      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
-      
-      <guid>https://masatakashiwagi.github.io/mlops-practices/categories/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>https://masatakashiwagi.github.io/mlops-practices/categories/life/</link>
-      <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
-      
-      <guid>https://masatakashiwagi.github.io/mlops-practices/categories/life/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>masatakashiwagi</copyright><atom:link href="https://masatakashiwagi.github.io/mlops-practices/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
