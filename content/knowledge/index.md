@@ -2,7 +2,16 @@
 title: Knowledge
 date: 2021-01-01 12:00:00
 ---
+# Contents
+- [Guides](#guides)
+- [Practices](#practices)
+- [MLOps projects](#mlops-projects)
+- [勉強会](#study)
+- [Conferences](#conferences)
+- [書籍](#books)
+- [References](#references)
 
+<a id="guides"></a>
 # Guides
 ### ブログ記事
 - [Machine Learning Operations](https://ml-ops.org/)
@@ -13,6 +22,7 @@ date: 2021-01-01 12:00:00
 - [機械学習エンジニアのためのMLOps入門](https://speakerdeck.com/chie8842/cookpad-internship-mlops-lecture-1)
 - [先駆者に学ぶMLOpsの実際](https://www.slideshare.net/tetsutarowatanabe/mlops-238097926)
 
+<a id="practices"></a>
 # Practices
 ## All in one
 ### ブログ記事
@@ -88,12 +98,15 @@ date: 2021-01-01 12:00:00
 - [異音検知プラットフォーム開発におけるMLOpsの実際と考察](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops) - <font color="DodgerBlue">***2020 Hmcomm***</font>
 - [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan) - <font color="DodgerBlue">***2020 Mercari***</font>
 
+<a id="mlops-projects"></a>
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
 
+<a id="study"></a>
 # 勉強会
 - [connpass - MLOps](https://mlops.connpass.com/)
 
+<a id="conferences"></a>
 # Conferences
 - [MLSys](https://mlsys.org/)
 - [OpML](https://www.usenix.org/conferences/byname/1027)
@@ -102,10 +115,12 @@ date: 2021-01-01 12:00:00
 - [MLOps Summit](https://www.re-work.co/summits/mlops-summit-2022)
 - [Data Engineering & MLOps](https://odsc.com/boston/mlops/)
 
+<a id="books"></a>
 # 書籍
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
 - [機械学習デザインパターン - データ準備、モデル構築、MLOpsの実践上の問題と解決](https://www.oreilly.co.jp/books/9784873119564/)
 
+<a id="references"></a>
 # References
 - [ApplyingML](https://applyingml.com/)
 - [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
