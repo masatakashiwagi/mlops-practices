@@ -29,16 +29,16 @@ date: 2021-01-01 12:00:00
 - [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - <font color="DodgerBlue">***2021 Kanmu***</font>
 
 ### プレゼンテーション
-- [サイバーエージェントにおけるMLOpsに関する取り組み | CA BASE NEXT](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next) - <font color="DodgerBlue">***2021 CyberAgent***</font>
-- [ニュース配信におけるMLOps・分析基盤の事例紹介](https://speakerdeck.com/sansandsoc/a-case-study-of-mlops-and-analysis-infrastructure-on-news-delivery-system) - <font color="DodgerBlue">***2021 Sansan***</font>
 - [JX通信社における実践的MLOps](https://speakerdeck.com/fwang/jxtong-xin-she-niokerushi-jian-de-mlops) - <font color="DodgerBlue">***2021 JX Press***</font>
 - [少人数PJにおけるMLOps事例](https://speakerdeck.com/s2p/shao-ren-shu-pjniokeru-mlopsshi-li) - <font color="DodgerBlue">***2021 Nikkei***</font>
 - [MLflowとONNXで実現するクラウドネイティブなMLOps](https://speakerdeck.com/konabuta/mlflow-to-onnx-deshi-xian-surukuraudoneiteibuna-mlops) - <font color="DodgerBlue">***2021 Microsoft***</font>
-- [MOVの機械学習システムを支えるMLOps実践](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian) - <font color="DodgerBlue">***2020 Mobility Technologies***</font>
+- [ニュース配信におけるMLOps・分析基盤の事例紹介](https://speakerdeck.com/sansandsoc/a-case-study-of-mlops-and-analysis-infrastructure-on-news-delivery-system) - <font color="DodgerBlue">***2021 Sansan***</font>
+- [サイバーエージェントにおけるMLOpsに関する取り組み | CA BASE NEXT](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next) - <font color="DodgerBlue">***2021 CyberAgent***</font>
 - [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian) - <font color="DodgerBlue">***2020 LegalForce***</font>
+- [MOVの機械学習システムを支えるMLOps実践](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian) - <font color="DodgerBlue">***2020 Mobility Technologies***</font>
 - [クックパッドでの機械学習開発フロー](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad) - <font color="DodgerBlue">***2019 Cookpad***</font>
-- [FreakOutにおけるAWS上での機械学習活用事例](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018) - <font color="DodgerBlue">***2018 FreakOut***</font>
 - [Wantedlyの機械学習プロダクト開発を支える機械学習基盤](https://speakerdeck.com/south37/number-rejectcon2018) - <font color="DodgerBlue">***2018 Wantedly***</font>
+- [FreakOutにおけるAWS上での機械学習活用事例](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018) - <font color="DodgerBlue">***2018 FreakOut***</font>
 - [クックパッドの機械学習基盤 2018](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018) - <font color="DodgerBlue">***2018 Cookpad***</font>
 
 ## 実験管理
@@ -55,8 +55,8 @@ date: 2021-01-01 12:00:00
 - [hoge]()
 
 ### プレゼンテーション
-- [DVCを活用した機械学習パイプライン開発の高速化](https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development) - <font color="DodgerBlue">***2021 Wantedly***</font>
 - [Google Cloud BuildとAI Platformではじめる軽量MLOps pipelineとAlphaSQL](https://speakerdeck.com/jdsc/google-cloud-build-toai-platformdehazimeruqing-liang-mlops-pipelinetoalphasql) - <font color="DodgerBlue">***2021 JDSC***</font>
+- [DVCを活用した機械学習パイプライン開発の高速化](https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development) - <font color="DodgerBlue">***2021 Wantedly***</font>
 
 ## CI/CD (Continuous Integration and Delivery)
 ### ブログ記事
@@ -95,8 +95,8 @@ date: 2021-01-01 12:00:00
 - [hoge]()
 
 ### プレゼンテーション
-- [異音検知プラットフォーム開発におけるMLOpsの実際と考察](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops) - <font color="DodgerBlue">***2020 Hmcomm***</font>
 - [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan) - <font color="DodgerBlue">***2020 Mercari***</font>
+- [異音検知プラットフォーム開発におけるMLOpsの実際と考察](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops) - <font color="DodgerBlue">***2020 Hmcomm***</font>
 
 <a id="mlops-projects"></a>
 # MLOps projects
