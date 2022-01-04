@@ -29,6 +29,8 @@ date: 2021-01-01 12:00:00
 - [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践 - 2020 LegalForce](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian)
 - [クックパッドでの機械学習開発フロー - 2019 Cookpad](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad)
 - [FreakOutにおけるAWS上での機械学習活用事例 - 2018 FreakOut](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018)
+- [Wantedlyの機械学習プロダクト開発を支える機械学習基盤 - 2018 Wantedly](https://speakerdeck.com/south37/number-rejectcon2018)
+- [クックパッドの機械学習基盤 2018 - 2018 Cookpad](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018)
 
 ## 実験管理
 ### ブログ記事
@@ -85,6 +87,7 @@ date: 2021-01-01 12:00:00
 
 ### プレゼンテーション
 - [異音検知プラットフォーム開発におけるMLOpsの実際と考察 - 2020 Hmcomm](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops)
+- [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan)
 
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
