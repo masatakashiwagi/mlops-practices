@@ -17,62 +17,62 @@ date: 2021-01-01 12:00:00
 # Practices
 ## All in one
 ### ブログ記事
-- [カンムを支える技術 ~機械学習編~ - 2021 Kanmu](https://tech.kanmu.co.jp/entry/2021/06/11/120953)
+- [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - ***2021 Kanmu***
 
 ### プレゼンテーション
-- [サイバーエージェントにおけるMLOpsに関する取り組み | CA BASE NEXT - 2021 CyberAgent](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next)
-- [ニュース配信におけるMLOps・分析基盤の事例紹介 - 2021 Sansan](https://speakerdeck.com/sansandsoc/a-case-study-of-mlops-and-analysis-infrastructure-on-news-delivery-system)
-- [JX通信社における実践的MLOps - 2021 JX Press](https://speakerdeck.com/fwang/jxtong-xin-she-niokerushi-jian-de-mlops)
-- [少人数PJにおけるMLOps事例 - 2021 Nikkei](https://speakerdeck.com/s2p/shao-ren-shu-pjniokeru-mlopsshi-li)
-- [MLflowとONNXで実現するクラウドネイティブなMLOps - 2021 Microsoft](https://speakerdeck.com/konabuta/mlflow-to-onnx-deshi-xian-surukuraudoneiteibuna-mlops)
-- [MOVの機械学習システムを支えるMLOps実践 - 2020 Mobility Technologies](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian)
-- [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践 - 2020 LegalForce](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian)
-- [クックパッドでの機械学習開発フロー - 2019 Cookpad](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad)
-- [FreakOutにおけるAWS上での機械学習活用事例 - 2018 FreakOut](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018)
-- [Wantedlyの機械学習プロダクト開発を支える機械学習基盤 - 2018 Wantedly](https://speakerdeck.com/south37/number-rejectcon2018)
-- [クックパッドの機械学習基盤 2018 - 2018 Cookpad](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018)
+- [サイバーエージェントにおけるMLOpsに関する取り組み | CA BASE NEXT](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next) - ***2021 CyberAgent***
+- [ニュース配信におけるMLOps・分析基盤の事例紹介](https://speakerdeck.com/sansandsoc/a-case-study-of-mlops-and-analysis-infrastructure-on-news-delivery-system) - ***2021 Sansan***
+- [JX通信社における実践的MLOps](https://speakerdeck.com/fwang/jxtong-xin-she-niokerushi-jian-de-mlops) - ***2021 JX Press***
+- [少人数PJにおけるMLOps事例](https://speakerdeck.com/s2p/shao-ren-shu-pjniokeru-mlopsshi-li) - ***2021 Nikkei***
+- [MLflowとONNXで実現するクラウドネイティブなMLOps](https://speakerdeck.com/konabuta/mlflow-to-onnx-deshi-xian-surukuraudoneiteibuna-mlops) - ***2021 Microsoft***
+- [MOVの機械学習システムを支えるMLOps実践](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian) - ***2020 Mobility Technologies***
+- [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian) - ***2020 LegalForce***
+- [クックパッドでの機械学習開発フロー](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad) - ***2019 Cookpad***
+- [FreakOutにおけるAWS上での機械学習活用事例](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018) - ***2018 FreakOut***
+- [Wantedlyの機械学習プロダクト開発を支える機械学習基盤](https://speakerdeck.com/south37/number-rejectcon2018) - ***2018 Wantedly***
+- [クックパッドの機械学習基盤 2018](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018) - ***2018 Cookpad***
 
 ## 実験管理
 ### ブログ記事
-- [SageMaker Experimentsによる実験管理とQuickSightを使ったその可視化 - 2021 Money Forward](https://moneyforward.com/engineers_blog/2021/08/20/sagemaker-experiments/)
-- [小さく始めて大きく育てるMLOps2020 - 2020 CyberAgent](https://cyberagent.ai/blog/research/12898/)
+- [SageMaker Experimentsによる実験管理とQuickSightを使ったその可視化](https://moneyforward.com/engineers_blog/2021/08/20/sagemaker-experiments/) - ***2021 Money Forward***
+- [小さく始めて大きく育てるMLOps2020](https://cyberagent.ai/blog/research/12898/) - ***2020 CyberAgent***
 
 ### プレゼンテーション
-- [Data Version Controlによる実験管理の実務での適用事例 - 2021 Sansan](https://speakerdeck.com/sansandsoc/an-experiment-management-example-by-data-version-control)
-- [ABEJA PlatformでのMLOps - 2019 ABEJA](https://speakerdeck.com/ysku/abeja-platform-defalse-mlops-linexabeja-mlops-study-at-fukuoka)
+- [Data Version Controlによる実験管理の実務での適用事例](https://speakerdeck.com/sansandsoc/an-experiment-management-example-by-data-version-control) - ***2021 Sansan***
+- [ABEJA PlatformでのMLOps](https://speakerdeck.com/ysku/abeja-platform-defalse-mlops-linexabeja-mlops-study-at-fukuoka) - ***2019 ABEJA***
 
 ## パイプライン
 ### ブログ記事
 - [hoge]()
 
 ### プレゼンテーション
-- [DVCを活用した機械学習パイプライン開発の高速化 - 2021 Wantedly](https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development)
-- [Google Cloud BuildとAI Platformではじめる軽量MLOps pipelineとAlphaSQL - 2021 JDSC](https://speakerdeck.com/jdsc/google-cloud-build-toai-platformdehazimeruqing-liang-mlops-pipelinetoalphasql)
+- [DVCを活用した機械学習パイプライン開発の高速化](https://speakerdeck.com/unblee/using-dvc-to-accelerate-machine-learning-pipeline-development) - ***2021 Wantedly***
+- [Google Cloud BuildとAI Platformではじめる軽量MLOps pipelineとAlphaSQL](https://speakerdeck.com/jdsc/google-cloud-build-toai-platformdehazimeruqing-liang-mlops-pipelinetoalphasql) - ***2021 JDSC***
 
 ## CI/CD (Continuous Integration and Delivery)
 ### ブログ記事
 - [hoge]()
 
 ### プレゼンテーション
-- [KaggleライクなCI環境を構築した話 - 2021 Future](https://speakerdeck.com/noko/kaggleraikunacihuan-jing-wogou-zhu-sitahua)
-- [MLOpsを実現するSRE激闘の歴史 - 2020 Stockmark](https://speakerdeck.com/kenta_sato3/mlopswoshi-xian-surusreji-dou-falseli-shi)
+- [KaggleライクなCI環境を構築した話](https://speakerdeck.com/noko/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - ***2021 Future***
+- [MLOpsを実現するSRE激闘の歴史](https://speakerdeck.com/kenta_sato3/mlopswoshi-xian-surusreji-dou-falseli-shi) - ***2020 Stockmark***
 
 ## CT (Continuous Training)
 ### ブログ記事
 - [hoge]()
 
 ### プレゼンテーション
-- [Polyaxon + Kubeflowを利用した効率的な継続的モデルインテグレーション - 2021 Mercari](https://speakerdeck.com/shotarok/continuous-ml-model-integration-with-polyaxon-and-kubefolow-pipelines)
-- [実践Continuous Training - 2021 Alpha](https://speakerdeck.com/htshtsyk/shi-jian-continuous-training-di-6hui-mlopsmian-qiang-hui)
+- [Polyaxon + Kubeflowを利用した効率的な継続的モデルインテグレーション](https://speakerdeck.com/shotarok/continuous-ml-model-integration-with-polyaxon-and-kubefolow-pipelines) - ***2021 Mercari***
+- [実践Continuous Training](https://speakerdeck.com/htshtsyk/shi-jian-continuous-training-di-6hui-mlopsmian-qiang-hui) - ***2021 Alpha***
 
 ## モニタリング
 ### ブログ記事
 - [hoge]()
 
 ### プレゼンテーション
-- [Lupus - A Monitoring System for Accelerating MLOps - 2021 LINE](https://speakerdeck.com/line_devday2021/lupus-a-monitoring-system-for-accelerating-mlops)
-- [Building LINE Pay Monitoring System and Anomaly Log Detection System Using ML - 2021 LINE](https://speakerdeck.com/line_devday2021/building-line-pay-monitoring-system-and-anomaly-log-detection-system-using-ml)
-- [ZOZOのMLOpsチームにおける監視への取り組み - 2020 ZOZO](https://speakerdeck.com/inductor/observability-in-10-mins-at-zozo-mlops)
+- [Lupus - A Monitoring System for Accelerating MLOps](https://speakerdeck.com/line_devday2021/lupus-a-monitoring-system-for-accelerating-mlops) - ***2021 LINE***
+- [Building LINE Pay Monitoring System and Anomaly Log Detection System Using ML](https://speakerdeck.com/line_devday2021/building-line-pay-monitoring-system-and-anomaly-log-detection-system-using-ml) - ***2021 LINE***
+- [ZOZOのMLOpsチームにおける監視への取り組み](https://speakerdeck.com/inductor/observability-in-10-mins-at-zozo-mlops) - ***2020 ZOZO Technologies***
 
 ## サービング
 ### ブログ記事
@@ -86,8 +86,8 @@ date: 2021-01-01 12:00:00
 - [hoge]()
 
 ### プレゼンテーション
-- [異音検知プラットフォーム開発におけるMLOpsの実際と考察 - 2020 Hmcomm](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops)
-- [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan)
+- [異音検知プラットフォーム開発におけるMLOpsの実際と考察](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops) - ***2020 Hmcomm***
+- [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan) - ***2020 Mercari***
 
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
