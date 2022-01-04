@@ -45,6 +45,8 @@ weight = 3
     noClasses = true
     style = "dracula"
     tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe= true
 
 [params]
   author = "Masataka Kashiwagi"
