@@ -26,7 +26,10 @@ date: 2021-01-01 12:00:00
 # Practices
 ## All in one
 ### ブログ記事
+- [MLOpsはじめました](https://tech.enigmo.co.jp/entry/2021/12/15/100000) - <font color="DodgerBlue">***2021 enigma***</font>
 - [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - <font color="DodgerBlue">***2021 Kanmu***</font>
+- [BERTを使ったMLバッチ処理実サービスのアーキテクチャとMLOpsの取り組み](https://tech.stockmark.co.jp/blog/mlops/) - <font color="DodgerBlue">***2020 Stockmark***</font>
+- [Kubernetesを利用したコンテナベース機械学習基盤の構築](https://analytics.livesense.co.jp/entry/2018/01/18/090000) - <font color="DodgerBlue">***2018 Livesense***</font>
 
 ### プレゼンテーション
 - [JX通信社における実践的MLOps](https://speakerdeck.com/fwang/jxtong-xin-she-niokerushi-jian-de-mlops) - <font color="DodgerBlue">***2021 JX Press***</font>
@@ -37,6 +40,7 @@ date: 2021-01-01 12:00:00
 - [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian) - <font color="DodgerBlue">***2020 LegalForce***</font>
 - [MOVの機械学習システムを支えるMLOps実践](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian) - <font color="DodgerBlue">***2020 Mobility Technologies***</font>
 - [クックパッドでの機械学習開発フロー](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad) - <font color="DodgerBlue">***2019 Cookpad***</font>
+- [マイクロチームでの機械学習PoC](https://speakerdeck.com/yurfuwa/shibuyasynapse-number-4) - <font color="DodgerBlue">***2018 DeNA***</font>
 - [Wantedlyの機械学習プロダクト開発を支える機械学習基盤](https://speakerdeck.com/south37/number-rejectcon2018) - <font color="DodgerBlue">***2018 Wantedly***</font>
 - [FreakOutにおけるAWS上での機械学習活用事例](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018) - <font color="DodgerBlue">***2018 FreakOut***</font>
 - [クックパッドの機械学習基盤 2018](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018) - <font color="DodgerBlue">***2018 Cookpad***</font>
@@ -44,6 +48,7 @@ date: 2021-01-01 12:00:00
 ## 実験管理
 ### ブログ記事
 - [SageMaker Experimentsによる実験管理とQuickSightを使ったその可視化](https://moneyforward.com/engineers_blog/2021/08/20/sagemaker-experiments/) - <font color="DodgerBlue">***2021 Money Forward***</font>
+- [MLflowで実験管理入門](https://future-architect.github.io/articles/20200626/) - <font color="DodgerBlue">***2020 Future***</font>
 - [小さく始めて大きく育てるMLOps2020](https://cyberagent.ai/blog/research/12898/) - <font color="DodgerBlue">***2020 CyberAgent***</font>
 
 ### プレゼンテーション
@@ -60,7 +65,7 @@ date: 2021-01-01 12:00:00
 
 ## CI/CD (Continuous Integration and Delivery)
 ### ブログ記事
-- [hoge]()
+- [AI Platform Pipelinesの機械学習基盤への導入](https://developers.microad.co.jp/entry/2021/05/17/063000) - <font color="DodgerBlue">***2021 Micro Ad***</font>
 
 ### プレゼンテーション
 - [KaggleライクなCI環境を構築した話](https://speakerdeck.com/noko/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - <font color="DodgerBlue">***2021 Future***</font>
@@ -85,14 +90,16 @@ date: 2021-01-01 12:00:00
 
 ## サービング
 ### ブログ記事
-- [hoge]()
+- [ヤフーの広告配信で機械学習の改善サイクルを高速化した話 〜 TensorFlow Serving導入](https://techblog.yahoo.co.jp/entry/2020101930034463/) - <font color="DodgerBlue">***2020 Yahoo! JAPAN***</font>
 
 ### プレゼンテーション
 - [hoge]()
 
 ## Others
 ### ブログ記事
-- [hoge]()
+- [モデリング施策を高速・安全に回せる、MLOpsの仕組みづくり](https://techblog.yahoo.co.jp/entry/2021110830236406/) - <font color="DodgerBlue">***2021 Yahoo! JAPAN***</font>
+- [AWSを活用した機械翻訳のためのGPU並列処理環境の構築](https://tech.stockmark.co.jp/blog/gpu_translate/) - <font color="DodgerBlue">***2021 Stockmark***</font>
+- [新卒がMLOpsに挑戦していく話](https://developers.microad.co.jp/entry/2020/03/23/120000) - <font color="DodgerBlue">***2020 Micro Ad***</font>
 
 ### プレゼンテーション
 - [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan) - <font color="DodgerBlue">***2020 Mercari***</font>
