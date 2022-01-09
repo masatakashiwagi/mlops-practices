@@ -27,6 +27,7 @@ date: 2021-01-01 12:00:00
 ## All in one
 ### ブログ記事
 - [MLOpsはじめました](https://tech.enigmo.co.jp/entry/2021/12/15/100000) - <font color="DodgerBlue">***2021 enigma***</font>
+- [ヤフーのAIプラットフォーム紹介 ~ AI開発をより手軽に](https://techblog.yahoo.co.jp/entry/2021083130180585/) - <font color="DodgerBlue">***2021 Yahoo! JAPAN***</font>
 - [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - <font color="DodgerBlue">***2021 Kanmu***</font>
 - [BERTを使ったMLバッチ処理実サービスのアーキテクチャとMLOpsの取り組み](https://tech.stockmark.co.jp/blog/mlops/) - <font color="DodgerBlue">***2020 Stockmark***</font>
 - [Kubernetesを利用したコンテナベース機械学習基盤の構築](https://analytics.livesense.co.jp/entry/2018/01/18/090000) - <font color="DodgerBlue">***2018 Livesense***</font>
@@ -36,7 +37,9 @@ date: 2021-01-01 12:00:00
 - [少人数PJにおけるMLOps事例](https://speakerdeck.com/s2p/shao-ren-shu-pjniokeru-mlopsshi-li) - <font color="DodgerBlue">***2021 Nikkei***</font>
 - [MLflowとONNXで実現するクラウドネイティブなMLOps](https://speakerdeck.com/konabuta/mlflow-to-onnx-deshi-xian-surukuraudoneiteibuna-mlops) - <font color="DodgerBlue">***2021 Microsoft***</font>
 - [ニュース配信におけるMLOps・分析基盤の事例紹介](https://speakerdeck.com/sansandsoc/a-case-study-of-mlops-and-analysis-infrastructure-on-news-delivery-system) - <font color="DodgerBlue">***2021 Sansan***</font>
-- [サイバーエージェントにおけるMLOpsに関する取り組み | CA BASE NEXT](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next) - <font color="DodgerBlue">***2021 CyberAgent***</font>
+- [GOの機械学習システムを支えるMLOps事例紹介](https://www.slideshare.net/takashisuzuki503/gomlops) - <font color="DodgerBlue">***2021 Mobility Technologies***</font>
+    - [同上 - Google Developers ML Summit](https://lp.cloudplatformonline.com/rs/808-GJW-314/images/ML_Summit_D2-Session09.pdf)
+- [サイバーエージェントにおけるMLOpsに関する取り組み](https://speakerdeck.com/cyberagentdevelopers/saibaezientoniokerumlopsniguan-suruqu-rizu-mi-ca-base-next) - <font color="DodgerBlue">***2021 CyberAgent***</font>
 - [リーガルテックの機械学習基盤を支えるクラウドネイティブ技術の実践](https://speakerdeck.com/rupyjp/cndt2020-rigarutetukufalseji-jie-xue-xi-ji-pan-wozhi-erukuraudoneiteibuji-shu-falseshi-jian) - <font color="DodgerBlue">***2020 LegalForce***</font>
 - [MOVの機械学習システムを支えるMLOps実践](https://speakerdeck.com/2kyym/movfalseji-jie-xue-xi-sisutemuwozhi-erumlopsshi-jian) - <font color="DodgerBlue">***2020 Mobility Technologies***</font>
 - [クックパッドでの機械学習開発フロー](https://speakerdeck.com/studio_graph/ml-ops-in-cookpad) - <font color="DodgerBlue">***2019 Cookpad***</font>
@@ -57,7 +60,7 @@ date: 2021-01-01 12:00:00
 
 ## パイプライン
 ### ブログ記事
-- [hoge]()
+- [AI Platform Pipelines (Kubeflow Pipelines)による機械学習パイプラインの構築と本番導入](https://techblog.zozo.com/entry/aip-pipelines-impl) - <font color="DodgerBlue">***2020 ZOZO***</font>
 
 ### プレゼンテーション
 - [Google Cloud BuildとAI Platformではじめる軽量MLOps pipelineとAlphaSQL](https://speakerdeck.com/jdsc/google-cloud-build-toai-platformdehazimeruqing-liang-mlops-pipelinetoalphasql) - <font color="DodgerBlue">***2021 JDSC***</font>
@@ -86,7 +89,7 @@ date: 2021-01-01 12:00:00
 ### プレゼンテーション
 - [Lupus - A Monitoring System for Accelerating MLOps](https://speakerdeck.com/line_devday2021/lupus-a-monitoring-system-for-accelerating-mlops) - <font color="DodgerBlue">***2021 LINE***</font>
 - [Building LINE Pay Monitoring System and Anomaly Log Detection System Using ML](https://speakerdeck.com/line_devday2021/building-line-pay-monitoring-system-and-anomaly-log-detection-system-using-ml) - <font color="DodgerBlue">***2021 LINE***</font>
-- [ZOZOのMLOpsチームにおける監視への取り組み](https://speakerdeck.com/inductor/observability-in-10-mins-at-zozo-mlops) - <font color="DodgerBlue">***2020 ZOZO Technologies***</font>
+- [ZOZOのMLOpsチームにおける監視への取り組み](https://speakerdeck.com/inductor/observability-in-10-mins-at-zozo-mlops) - <font color="DodgerBlue">***2020 ZOZO***</font>
 
 ## サービング
 ### ブログ記事
@@ -99,11 +102,13 @@ date: 2021-01-01 12:00:00
 ### ブログ記事
 - [モデリング施策を高速・安全に回せる、MLOpsの仕組みづくり](https://techblog.yahoo.co.jp/entry/2021110830236406/) - <font color="DodgerBlue">***2021 Yahoo! JAPAN***</font>
 - [AWSを活用した機械翻訳のためのGPU並列処理環境の構築](https://tech.stockmark.co.jp/blog/gpu_translate/) - <font color="DodgerBlue">***2021 Stockmark***</font>
+- [KubeflowによるMLOps基盤構築から得られた知見と課題](https://techblog.zozo.com/entry/mlops-platform-kubeflow) - <font color="DodgerBlue">***2021 ZOZO***</font>
 - [新卒がMLOpsに挑戦していく話](https://developers.microad.co.jp/entry/2020/03/23/120000) - <font color="DodgerBlue">***2020 Micro Ad***</font>
 
 ### プレゼンテーション
 - [モバイル向け機械学習モデル管理基盤](https://speakerdeck.com/yujioshima/mlse-mobairuxiang-keji-jie-xue-xi-moderuguan-li-ji-pan) - <font color="DodgerBlue">***2020 Mercari***</font>
 - [異音検知プラットフォーム開発におけるMLOpsの実際と考察](https://www.slideshare.net/ShotaSaitoh/mlops-3-mlops) - <font color="DodgerBlue">***2020 Hmcomm***</font>
+- [ZOZO MLOpsのチームリーディングとSRE(Engineering)](https://docs.google.com/presentation/d/1zEkR9Dm_epg7fxOCFE-asBsUlHDozwObsBEGAILiqic/edit#slide=id.p1) - <font color="DodgerBlue">***2020 ZOZO***</font>
 
 <a id="mlops-projects"></a>
 # MLOps projects
