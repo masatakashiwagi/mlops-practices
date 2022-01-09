@@ -11,5 +11,5 @@ MLOpsに関する各社の取り組みを整理したドキュメント集にな
 
 # contribution
 - issueを起票頂き，以下の部分を編集下さい．
-    - Knowledge: content/knowledge/index.mdを編集してPRを上げて下さい．
+    - Knowledge: [content/knowledge/index.md](https://github.com/masatakashiwagi/mlops-practices/blob/main/content/knowledge/index.md)を編集してPRを上げて下さい．
 - issueのフォーマットは現状自由になります，PR時にはテンプレートをご利用下さい．
