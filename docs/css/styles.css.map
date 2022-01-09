@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/mkashiwagi/GitHub/mlops-practices",
+	"sourceRoot": "/Users/masataka/Github/mlops-practices",
 	"sources": [
 		"assets/scss/style.scss",
 		"assets/scss/_variables.scss",
