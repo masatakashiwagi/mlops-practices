@@ -59,7 +59,7 @@ weight = 3
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "MLOpsに対して，各社が取り組んでいる内容や知見を集めたものになります．各社のテックブログや登壇での発表資料を中心に**Knowledge**に整理しています．また，個人ブログでの発信内容については，サービスやプロダクトの**Tips**として別で整理する予定です．"
+  description = "MLOpsに対して，&nbsp;各社が取り組んでいる内容や知見を集めたものになります．&nbsp;各社のテックブログや登壇での発表資料を中心に&nbsp;「**Knowledge**」&nbsp;に整理しています．&nbsp;また，&nbsp;個人ブログでの発信内容については，&nbsp;サービスやプロダクトの&nbsp;「**Tips**」&nbsp;として別で整理する予定です．"
   mainSection = "home" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
