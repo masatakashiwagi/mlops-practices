@@ -4,6 +4,7 @@ title = "MLOps - Practices"
 theme = "cactus"
 copyright = "masatakashiwagi"
 googleAnalytics = "UA-217356001-1"
+googleAnalyticsRoute = "https://masatakashiwagi.github.io/mlops-practices/"
 enableEmoji = true
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -51,7 +52,7 @@ weight = 3
 [params]
   author = "Masataka Kashiwagi"
 	subtitle = "MLOpsに対する各社の取り組みを整理したDocs"
-	keywords = "MLOps"
+	keywords = "MLOps,機械学習,Machine Learning"
 
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
