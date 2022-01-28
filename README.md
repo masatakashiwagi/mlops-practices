@@ -4,7 +4,7 @@ MLOpsに関する各社の取り組みを整理したドキュメント集にな
 
 # contact
 - 何かご連絡がある場合には，TwitterのDMに連絡を頂ければと思います．
-- [@asteriam_fp](https://twitter.com/asteriam_fp)
+    - Twitter: [@asteriam_fp](https://twitter.com/asteriam_fp)
 
 # support
 - 拾い切れていない事例が多々あると思いますので，適宜issueを起票して頂けると助かります．
