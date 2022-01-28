@@ -1,6 +1,7 @@
 # mlops-practices
 MLOpsに関する各社の取り組みを整理したドキュメント集になります．<br>
 各社のテックブログや登壇時の発表資料をメインで整理しています．
+MLOps Practices: https://masatakashiwagi.github.io/mlops-practices/ 
 
 # contact
 - 何かご連絡がある場合には，TwitterのDMに連絡を頂ければと思います．
