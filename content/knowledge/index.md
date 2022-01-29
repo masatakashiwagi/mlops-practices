@@ -26,6 +26,7 @@ date: 2021-01-01 12:00:00
 # Practices
 ## All in one
 ### ブログ記事
+- [バンダイナムコグループの機械学習機能を実現するML基盤について](https://www.wantedly.com/companies/company_9704487/post_articles/371348) - <font color="DodgerBlue">***2022 BANDAI NAMCO***</font>
 - [MLOpsはじめました](https://tech.enigmo.co.jp/entry/2021/12/15/100000) - <font color="DodgerBlue">***2021 enigma***</font>
 - [ヤフーのAIプラットフォーム紹介 ~ AI開発をより手軽に](https://techblog.yahoo.co.jp/entry/2021083130180585/) - <font color="DodgerBlue">***2021 Yahoo! JAPAN***</font>
 - [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - <font color="DodgerBlue">***2021 Kanmu***</font>
