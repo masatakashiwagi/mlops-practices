@@ -85,7 +85,7 @@ date: 2021-01-01 12:00:00
 
 ## モニタリング
 ### ブログ記事
-- [hoge]()
+- [MLOpsを支えるヤフー独自のモデルモニタリングサービス](https://techblog.yahoo.co.jp/entry/2022013130257343/) - <font color="DodgerBlue">***2020 Yahoo! JAPAN***</font>
 
 ### プレゼンテーション
 - [Lupus - A Monitoring System for Accelerating MLOps](https://speakerdeck.com/line_devday2021/lupus-a-monitoring-system-for-accelerating-mlops) - <font color="DodgerBlue">***2021 LINE***</font>
