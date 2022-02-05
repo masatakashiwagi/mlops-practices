@@ -31,7 +31,7 @@ def check_link(target_link: str) -> None:
             href_list.append(val_href)
 
     for i, href in enumerate(href_list):
-        res_href = requests.get(href, allow_redirects=False, headers={'User-Agent': UA})
+        res_href = requests.get(href, allow_redirects=True, headers={'User-Agent': UA})
         if res_href.status_code != 200:
             raise ValueError(f"status code is {res_href.status_code}, check the URL link: {res_href.url}")
         else:
