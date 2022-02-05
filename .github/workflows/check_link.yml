@@ -1,0 +1,57 @@
+name: url-link-check-action
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'test/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'test/**'
+
+env:
+  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+  SLACK_USERNAME: CheckBot
+  SLACK_CHANNEL: github-mlops-practices-knowledge
+
+jobs:
+  check-link:
+    name: Check URL links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Get Python version
+        run: python -V
+      #-- Install Python Library --#
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r test/requirements.txt
+      #-- Execution Python Script --#
+      - name: Run Python
+        run: python test/check_link.py
+      #-- Slack Notification --#
+      # Success
+      - name: Slack Notification on Success
+        if: ${{ success() }}
+        uses: rtCamp/action-slack-notify@v2.0.2
+        env:
+          SLACK_TITLE: Check Success
+          SLACK_COLOR: good
+          SLACK_MESSAGE: URLの確認に成功したよ！
+      # Failure
+      - name: Slack Notification on Failure
+        if: ${{ failure() }}
+        uses: rtCamp/action-slack-notify@v2.0.2
+        env:
+          SLACK_TITLE: Check Failure for specific URL
+          SLACK_COLOR: danger
+          SLACK_MESSAGE: URLの確認に失敗したよ！
