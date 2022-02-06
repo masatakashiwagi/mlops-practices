@@ -132,7 +132,7 @@ date: 2021-01-01 12:00:00
 # 書籍
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
 - [機械学習デザインパターン - データ準備、モデル構築、MLOpsの実践上の問題と解決](https://www.oreilly.co.jp/books/9784873119564/)
-- [入門 機械学習パイプライン ― TensorFlowで学ぶワークフローの自動化](https://www.oreilly.co.jp/books/9784873119519/)
+- [入門 機械学習パイプライン - TensorFlowで学ぶワークフローの自動化](https://www.oreilly.co.jp/books/9784873119519/)
 
 <a id="references"></a>
 # References
