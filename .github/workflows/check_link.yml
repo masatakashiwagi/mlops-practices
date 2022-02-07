@@ -4,13 +4,13 @@ on:
   push:
     branches:
       - main
-      - masatakashiwagi:main
+      - masatakashiwagi/main
     paths:
       - 'test/**'
   pull_request:
     branches:
       - main
-      - masatakashiwagi:main
+      - masatakashiwagi/main
     paths:
       - 'test/**'
 

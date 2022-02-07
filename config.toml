@@ -15,20 +15,21 @@ publishDir = "docs"
 # summaryLength = 2
 
 # Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
-[[menu.main]]
-name = "Knowledge"
-url = "/knowledge"
-weight = 2
+  [[menu.main]]
+    name = "Knowledge"
+    url = "/knowledge"
+    weight = 2
 
-[[menu.main]]
-name = "Tips"
-url = "/tips"
-weight = 3
+  [[menu.main]]
+    name = "Tips"
+    url = "/tips"
+    weight = 3
 
 [markup]
   [markup.tableOfContents]
