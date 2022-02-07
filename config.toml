@@ -12,8 +12,6 @@ pygmentscodefencesguesssyntax = true
 # Github Pagesでwebページを公開する用
 publishDir = "docs"
 
-# summaryLength = 2
-
 # Main menu which appears below site header.
 [menu]
   [[menu.main]]
@@ -51,9 +49,8 @@ publishDir = "docs"
 
 [params]
   author = "Masataka Kashiwagi"
-	subtitle = "MLOpsに対する各社の取り組みを整理したDocs"
-	keywords = "MLOps,機械学習,Machine Learning"
-
+  subtitle = "MLOpsに対する各社の取り組みを整理したDocs"
+  keywords = "MLOps,機械学習,Machine Learning"
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
