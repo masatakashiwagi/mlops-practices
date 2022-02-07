@@ -114,6 +114,7 @@ date: 2021-01-01 12:00:00
 <a id="mlops-projects"></a>
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
+- [Made With ML](https://madewithml.com/)
 
 <a id="study"></a>
 # 勉強会
