@@ -49,6 +49,13 @@ date: 2021-01-01 12:00:00
 - [FreakOutにおけるAWS上での機械学習活用事例](https://speakerdeck.com/shotarok/freakout-aws-summit-tokyo-2018) - <font color="DodgerBlue">***2018 FreakOut***</font>
 - [クックパッドの機械学習基盤 2018](https://speakerdeck.com/ayemos/machine-learning-platform-at-cookpad-2018) - <font color="DodgerBlue">***2018 Cookpad***</font>
 
+# Feature Store
+### ブログ記事
+- [【書き起こし】Vertex PipelinesとFeature Storeを活用した不正防止システム](https://engineering.mercari.com/blog/entry/20210928-mtf2021-day3-1/) - <font color="DodgerBlue">***2021 Merpay***</font>
+
+### プレゼンテーション
+- [Vertex PipelinesとFeature Storeを活用した不正防止システム](https://speakerdeck.com/mercari/using-feature-store-and-vertex-pipelines-in-fraud-prevention-system) - <font color="DodgerBlue">***2021 Merpay***</font>
+
 ## 実験管理
 ### ブログ記事
 - [SageMaker Experimentsによる実験管理とQuickSightを使ったその可視化](https://moneyforward.com/engineers_blog/2021/08/20/sagemaker-experiments/) - <font color="DodgerBlue">***2021 Money Forward***</font>
@@ -115,6 +122,7 @@ date: 2021-01-01 12:00:00
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
 - [Made With ML](https://madewithml.com/)
+- [Feature Stores for ML](https://www.featurestore.org/)
 
 <a id="study"></a>
 # 勉強会

@@ -1,6 +1,8 @@
 """リンクにアクセスできるかを確認するスクリプト
 """
 
+import sys
+import traceback
 import requests
 import bs4
 
@@ -38,5 +40,15 @@ def check_link(target_link: str) -> None:
             print(f'href {i}, {href} : OK')
 
 
+def main():
+    # ターゲットページに対して，check_link関数を適用する
+    try:
+        check_link(TARGET_PAGE)
+
+    except Exception as e:
+        _, _, tb = sys.exc_info()
+        print(f'Exception error: {e} || Type: {str(type(e))} || Traceback Message: {traceback.format_tb(tb)}')
+
+
 if __name__ == '__main__':
-    check_link(TARGET_PAGE)
+    main()
