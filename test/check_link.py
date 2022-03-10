@@ -3,10 +3,11 @@
 
 import sys
 import traceback
-import requests
-import bs4
 
-TARGET_PAGE = 'https://masatakashiwagi.github.io/mlops-practices/knowledge/'
+import bs4
+import requests
+
+TARGET_PAGE = 'http://localhost:1313/mlops-practices/knowledge/'
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '\
     'AppleWebKit/537.36 (KHTML, like Gecko) '\
     'Chrome/97.0.4692.99 Safari/537.36 '
@@ -47,7 +48,8 @@ def main():
 
     except Exception as e:
         _, _, tb = sys.exc_info()
-        raise ValueError(f'Exception error: {e} || Type: {str(type(e))} || Traceback Message: {traceback.format_tb(tb)}')
+        raise ValueError(
+            f'Exception error: {e} || Type: {str(type(e))} || Traceback Message: {traceback.format_tb(tb)}')
 
 
 if __name__ == '__main__':
