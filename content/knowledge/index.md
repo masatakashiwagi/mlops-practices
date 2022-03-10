@@ -12,6 +12,7 @@ date: 2021-01-01 12:00:00
 - [References](#references)
 
 <a id="guides"></a>
+
 # Guides
 ### ブログ記事
 - [Machine Learning Operations](https://ml-ops.org/)
@@ -23,6 +24,7 @@ date: 2021-01-01 12:00:00
 - [先駆者に学ぶMLOpsの実際](https://www.slideshare.net/tetsutarowatanabe/mlops-238097926)
 
 <a id="practices"></a>
+
 # Practices
 ## All in one
 ### ブログ記事
@@ -79,7 +81,7 @@ date: 2021-01-01 12:00:00
 - [AI Platform Pipelinesの機械学習基盤への導入](https://developers.microad.co.jp/entry/2021/05/17/063000) - <font color="DodgerBlue">***2021 Micro Ad***</font>
 
 ### プレゼンテーション
-- [KaggleライクなCI環境を構築した話](https://speakerdeck.com/noko/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - <font color="DodgerBlue">***2021 Future***</font>
+- [KaggleライクなCI環境を構築した話](https://speakerdeck.com/nokoxxx1212/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - <font color="DodgerBlue">***2021 Future***</font>
 - [MLOpsを実現するSRE激闘の歴史](https://speakerdeck.com/kenta_sato3/mlopswoshi-xian-surusreji-dou-falseli-shi) - <font color="DodgerBlue">***2020 Stockmark***</font>
 
 ## CT (Continuous Training)
@@ -119,16 +121,19 @@ date: 2021-01-01 12:00:00
 - [ZOZO MLOpsのチームリーディングとSRE(Engineering)](https://docs.google.com/presentation/d/1zEkR9Dm_epg7fxOCFE-asBsUlHDozwObsBEGAILiqic/edit#slide=id.p1) - <font color="DodgerBlue">***2020 ZOZO***</font>
 
 <a id="mlops-projects"></a>
+
 # MLOps projects
 - [MLOps.toys](https://mlops.toys/)
 - [Made With ML](https://madewithml.com/)
 - [Feature Stores for ML](https://www.featurestore.org/)
 
 <a id="study"></a>
+
 # 勉強会
 - [connpass - MLOps](https://mlops.connpass.com/)
 
 <a id="conferences"></a>
+
 # Conferences
 - [MLSys](https://mlsys.org/)
 - [OpML](https://www.usenix.org/conferences/byname/1027)
@@ -138,12 +143,14 @@ date: 2021-01-01 12:00:00
 - [Data Engineering & MLOps](https://odsc.com/boston/mlops/)
 
 <a id="books"></a>
+
 # 書籍
 - [AIエンジニアのための機械学習システムデザインパターン](https://www.shoeisha.co.jp/book/detail/9784798169453)
 - [機械学習デザインパターン - データ準備、モデル構築、MLOpsの実践上の問題と解決](https://www.oreilly.co.jp/books/9784873119564/)
 - [入門 機械学習パイプライン - TensorFlowで学ぶワークフローの自動化](https://www.oreilly.co.jp/books/9784873119519/)
 
 <a id="references"></a>
+
 # References
 - [ApplyingML](https://applyingml.com/)
 - [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
