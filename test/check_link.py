@@ -8,7 +8,7 @@ import bs4
 import markdown2
 import requests
 
-TARGET_PAGE = '../content/knowledge/index.md'
+TARGET_PAGE = 'content/knowledge/index.md'
 
 
 def check_link(target_link: str) -> None:
