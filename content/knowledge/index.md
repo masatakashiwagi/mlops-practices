@@ -81,7 +81,7 @@ date: 2021-01-01 12:00:00
 - [AI Platform Pipelinesの機械学習基盤への導入](https://developers.microad.co.jp/entry/2021/05/17/063000) - <font color="DodgerBlue">***2021 Micro Ad***</font>
 
 ### プレゼンテーション
-- [KaggleライクなCI環境を構築した話](https://speakerdeck.com/noko/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - <font color="DodgerBlue">***2021 Future***</font>
+- [KaggleライクなCI環境を構築した話](https://speakerdeck.com/nokoxxx1212/kaggleraikunacihuan-jing-wogou-zhu-sitahua) - <font color="DodgerBlue">***2021 Future***</font>
 - [MLOpsを実現するSRE激闘の歴史](https://speakerdeck.com/kenta_sato3/mlopswoshi-xian-surusreji-dou-falseli-shi) - <font color="DodgerBlue">***2020 Stockmark***</font>
 
 ## CT (Continuous Training)
