@@ -47,7 +47,7 @@ def main():
 
     except Exception as e:
         _, _, tb = sys.exc_info()
-        print(f'Exception error: {e} || Type: {str(type(e))} || Traceback Message: {traceback.format_tb(tb)}')
+        raise ValueError(f'Exception error: {e} || Type: {str(type(e))} || Traceback Message: {traceback.format_tb(tb)}')
 
 
 if __name__ == '__main__':
