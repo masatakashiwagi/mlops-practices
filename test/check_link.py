@@ -5,12 +5,10 @@ import sys
 import traceback
 
 import bs4
+import markdown2
 import requests
 
-TARGET_PAGE = 'http://localhost:1313/mlops-practices/knowledge/'
-UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '\
-    'AppleWebKit/537.36 (KHTML, like Gecko) '\
-    'Chrome/97.0.4692.99 Safari/537.36 '
+TARGET_PAGE = '../content/knowledge/index.md'
 
 
 def check_link(target_link: str) -> None:
@@ -19,10 +17,11 @@ def check_link(target_link: str) -> None:
     Args:
         target_link (str): 調査するサイトのURL
     """
+    with open(target_link) as f:
+        md = f.read()
 
-    res = requests.get(target_link, headers={'User-Agent': UA})
-    res.raise_for_status()
-    soup = bs4.BeautifulSoup(res.text, "html.parser")
+    html = markdown2.Markdown().convert(md)
+    soup = bs4.BeautifulSoup(html, "html.parser")
 
     # contentのclass属性を対象とする
     elems = soup.select('.content')
