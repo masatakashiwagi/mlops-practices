@@ -16,6 +16,9 @@ date: 2021-01-01 12:00:00
 # Guides
 ### ブログ記事
 - [Machine Learning Operations](https://ml-ops.org/)
+- [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+- [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
+- [Machine Learning operations maturity model](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model)
 - [ゆるふわMLOps入門](https://www.nogawanogawa.com/entry/mlops)
 
 ### プレゼンテーション
