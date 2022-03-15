@@ -53,6 +53,7 @@ date: 2021-01-01 12:00:00
 
 ## Feature Store
 ### ブログ記事
+- [Vertex Feature Storeの機械学習システムへの導入](https://techblog.zozo.com/entry/vertex-feature-store-impl) - <font color="DodgerBlue">***2022 ZOZO***</font>
 - [【書き起こし】Vertex PipelinesとFeature Storeを活用した不正防止システム](https://engineering.mercari.com/blog/entry/20210928-mtf2021-day3-1/) - <font color="DodgerBlue">***2021 Merpay***</font>
 
 ### プレゼンテーション

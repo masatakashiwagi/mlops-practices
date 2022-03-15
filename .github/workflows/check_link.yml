@@ -9,9 +9,6 @@ on:
       - 'test/**'
       - .github/workflows/check_link.yml
   pull_request:
-    # branches:
-    #   - main
-    #   - 'masatakashiwagi/main'
     types: [opened, synchronize, reopened]
     paths:
       - 'test/**'
