@@ -127,6 +127,7 @@ date: 2021-01-01 12:00:00
 <a id="mlops-projects"></a>
 
 # MLOps projects
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - [MLOps.toys](https://mlops.toys/)
 - [Made With ML](https://madewithml.com/)
 - [Feature Stores for ML](https://www.featurestore.org/)
