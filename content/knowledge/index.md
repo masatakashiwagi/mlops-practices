@@ -14,12 +14,18 @@ date: 2021-01-01 12:00:00
 <a id="guides"></a>
 
 # Guides
+- MLOpsがどういったものかを理解する上で読んでおくと良い記事や発表資料
 ### ブログ記事
 - [Machine Learning Operations](https://ml-ops.org/)
+    - MLOpsを含む機械学習全般に関する活用など網羅的にまとまったサイト
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+    - GoogleによるMLOpsのlevel毎のゴール（取り組み）を示した記事
 - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
+    - MLシステムを定量的に評価する指標としてML Test Scoreを導入し計測した論文
 - [Machine Learning operations maturity model](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model)
+    - MicrosoftによるMLOpsの成熟度を定性的に示した記事
 - [ゆるふわMLOps入門](https://www.nogawanogawa.com/entry/mlops)
+    - 日本語で書かれたMLOpsへの取り組み要素を1つ1つ丁寧に紹介した記事
 
 ### プレゼンテーション
 - [MLOpsの始め方](https://confengine.com/conferences/devopsdays-tokyo-2021/proposal/15205/mlops)
@@ -74,6 +80,8 @@ date: 2021-01-01 12:00:00
 
 ## パイプライン
 ### ブログ記事
+- [SageMakerとStep Functionsを用いた機械学習パイプラインで構築した検閲システム（後編）](https://tech.connehito.com/entry/2022/03/28/190436) - <font color="DodgerBlue">***2022 Connehito***</font>
+- [SageMakerとStep Functionsを用いた機械学習パイプラインで構築した検閲システム（前編）](https://tech.connehito.com/entry/2022/03/24/173719) - <font color="DodgerBlue">***2022 Connehito***</font>
 - [AI Platform Pipelines (Kubeflow Pipelines)による機械学習パイプラインの構築と本番導入](https://techblog.zozo.com/entry/aip-pipelines-impl) - <font color="DodgerBlue">***2020 ZOZO***</font>
 
 ### プレゼンテーション
