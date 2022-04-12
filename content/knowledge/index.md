@@ -134,11 +134,12 @@ date: 2021-01-01 12:00:00
 
 <a id="mlops-projects"></a>
 
-# MLOps projects
+# MLOps projects & wiki
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - [MLOps.toys](https://mlops.toys/)
 - [Made With ML](https://madewithml.com/)
 - [Feature Stores for ML](https://www.featurestore.org/)
+- [MLOps Wiki](https://censius.ai/wiki)
 
 <a id="study"></a>
 
