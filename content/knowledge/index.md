@@ -38,6 +38,7 @@ date: 2021-01-01 12:00:00
 ## All in one
 ### ブログ記事
 - [バンダイナムコグループの機械学習機能を実現するML基盤について](https://www.wantedly.com/companies/company_9704487/post_articles/371348) - <font color="DodgerBlue">***2022 BANDAI NAMCO***</font>
+- [オンライン機械学習サービスとしてGCP Vertex AIのMLOpsを導入した話](https://medium.com/eureka-engineering/vertex-ai-mlops-b74cdff19681) - <font color="DodgerBlue">***2021 Eureka, inc.***</font>
 - [MLOpsはじめました](https://tech.enigmo.co.jp/entry/2021/12/15/100000) - <font color="DodgerBlue">***2021 enigmo***</font>
 - [ヤフーのAIプラットフォーム紹介 ~ AI開発をより手軽に](https://techblog.yahoo.co.jp/entry/2021083130180585/) - <font color="DodgerBlue">***2021 Yahoo! JAPAN***</font>
 - [カンムを支える技術 ~機械学習編~](https://tech.kanmu.co.jp/entry/2021/06/11/120953) - <font color="DodgerBlue">***2021 Kanmu***</font>
@@ -115,6 +116,7 @@ date: 2021-01-01 12:00:00
 
 ## サービング
 ### ブログ記事
+- [EKS/Kubernetesで画像カテゴリ分類のGPU推論環境をProduction Readyにするまで](https://fukubaka0825.hatenablog.com/entry/2021/12/20/020908) - <font color="DodgerBlue">***2021 Eureka, inc.***</font>
 - [ヤフーの広告配信で機械学習の改善サイクルを高速化した話 〜 TensorFlow Serving導入](https://techblog.yahoo.co.jp/entry/2020101930034463/) - <font color="DodgerBlue">***2020 Yahoo! JAPAN***</font>
 
 ### プレゼンテーション
