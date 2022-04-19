@@ -116,7 +116,7 @@ date: 2021-01-01 12:00:00
 
 ## サービング
 ### ブログ記事
-- [EKS/Kubernetesで画像カテゴリ分類のGPU推論環境をProduction Readyにするまで](https://fukubaka0825.hatenablog.com/entry/2021/12/20/020908) - <font color="DodgerBlue">***2021 Eureka, inc.***</font>
+- [How to make GPU inference environment of image category classification production-ready with EKS/Kubernetes](https://medium.com/eureka-engineering/how-to-make-gpu-inference-environment-of-image-category-classification-production-ready-with-88922fb09401) - <font color="DodgerBlue">***2021 Eureka, inc.***</font>
 - [ヤフーの広告配信で機械学習の改善サイクルを高速化した話 〜 TensorFlow Serving導入](https://techblog.yahoo.co.jp/entry/2020101930034463/) - <font color="DodgerBlue">***2020 Yahoo! JAPAN***</font>
 
 ### プレゼンテーション
