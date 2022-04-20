@@ -110,6 +110,7 @@ date: 2021-01-01 12:00:00
 - [MLOpsを支えるヤフー独自のモデルモニタリングサービス](https://techblog.yahoo.co.jp/entry/2022013130257343/) - <font color="DodgerBlue">***2022 Yahoo! JAPAN***</font>
 
 ### プレゼンテーション
+- [継続的なモデルモニタリングを実現するKubernetes Operator](https://www.slideshare.net/techblogyahoo/kubernetes-operator-251612755) - <font color="DodgerBlue">***2022 Yahoo! JAPAN***</font>
 - [Lupus - A Monitoring System for Accelerating MLOps](https://speakerdeck.com/line_devday2021/lupus-a-monitoring-system-for-accelerating-mlops) - <font color="DodgerBlue">***2021 LINE***</font>
 - [Building LINE Pay Monitoring System and Anomaly Log Detection System Using ML](https://speakerdeck.com/line_devday2021/building-line-pay-monitoring-system-and-anomaly-log-detection-system-using-ml) - <font color="DodgerBlue">***2021 LINE***</font>
 - [ZOZOのMLOpsチームにおける監視への取り組み](https://speakerdeck.com/inductor/observability-in-10-mins-at-zozo-mlops) - <font color="DodgerBlue">***2020 ZOZO***</font>
