@@ -82,6 +82,8 @@ date: 2021-01-01 12:00:00
 
 ## パイプライン
 ### ブログ記事
+
+- [MLOps導入でAmazon SageMaker PipelineによりMLワークフロー構築の話](https://techblog.stanby.co.jp/entry/mlops) - <font color="DodgerBlue">***2022 Stanby***</font>
 - [SageMakerとStep Functionsを用いた機械学習パイプラインで構築した検閲システム（後編）](https://tech.connehito.com/entry/2022/03/28/190436) - <font color="DodgerBlue">***2022 Connehito***</font>
 - [SageMakerとStep Functionsを用いた機械学習パイプラインで構築した検閲システム（前編）](https://tech.connehito.com/entry/2022/03/24/173719) - <font color="DodgerBlue">***2022 Connehito***</font>
 - [AI Platform Pipelines (Kubeflow Pipelines)による機械学習パイプラインの構築と本番導入](https://techblog.zozo.com/entry/aip-pipelines-impl) - <font color="DodgerBlue">***2020 ZOZO***</font>
