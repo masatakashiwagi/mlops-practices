@@ -28,6 +28,7 @@ date: 2021-01-01 12:00:00
     - 日本語で書かれたMLOpsへの取り組み要素を1つ1つ丁寧に紹介した記事
 
 ### プレゼンテーション
+- [Amazon SageMakerでつくるMLOps -効率的な機械学習の開発・運用環境-](https://pages.awscloud.com/rs/112-TZM-766/images/attch_464048_533026_mp4_video_001_T2-4_MLT_AWS-Innovate-AIML_2022_deck.pdf)
 - [MLOpsの始め方](https://confengine.com/conferences/devopsdays-tokyo-2021/proposal/15205/mlops)
 - [機械学習エンジニアのためのMLOps入門](https://speakerdeck.com/chie8842/cookpad-internship-mlops-lecture-1)
 - [先駆者に学ぶMLOpsの実際](https://www.slideshare.net/tetsutarowatanabe/mlops-238097926)
