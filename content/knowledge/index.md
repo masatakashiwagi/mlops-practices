@@ -38,6 +38,7 @@ date: 2021-01-01 12:00:00
 # Practices
 ## All in one
 ### ブログ記事
+- [KARTEにおけるMLOpsの変遷](https://speakerdeck.com/kargo113/history-of-the-ml-system-in-karte) - <font color="DodgerBlue">***2022 PLAID***</font>
 - [検索アルゴリズム改善における機械学習の活用 ~MLOpsについて~](https://developers.gnavi.co.jp/entry/ml-ops/) - <font color="DodgerBlue">***2022 ぐるなび***</font>
 - [バンダイナムコグループの機械学習機能を実現するML基盤について](https://www.wantedly.com/companies/company_9704487/post_articles/371348) - <font color="DodgerBlue">***2022 BANDAI NAMCO***</font>
 - [オンライン機械学習サービスとしてGCP Vertex AIのMLOpsを導入した話](https://medium.com/eureka-engineering/vertex-ai-mlops-b74cdff19681) - <font color="DodgerBlue">***2021 eureka***</font>
