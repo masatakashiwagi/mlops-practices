@@ -14,8 +14,8 @@ env:
   SLACK_CHANNEL: github-mlops-practices-knowledge
 
 jobs:
-  check-link:
-    name: Check URL links
+  check-url-links:
+    name: Check URL Links
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
