@@ -1,18 +1,11 @@
 name: url-link-check-action
 
 on:
-  push:
-    branches:
-      - main
-      - 'masatakashiwagi/main'
-    paths:
-      - 'test/**'
-      - .github/workflows/check_link.yml
   pull_request:
     types: [opened, synchronize, reopened]
     paths:
-      - 'test/**'
-      - .github/workflows/check_link.yml
+      - 'content/knowledge/index.md'
+      - 'content/tips/index.md'
   workflow_dispatch:
 
 env:
