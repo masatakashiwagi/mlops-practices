@@ -13,8 +13,7 @@
       <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
       
       <guid>https://masatakashiwagi.github.io/mlops-practices/knowledge/</guid>
-      <description>Contents  Guides Practices MLOps projects 勉強会 Conferences 書籍 References  
-Guides  MLOpsがどういったものかを理解する上で読んでおくと良い記事や発表資料  ブログ記事  Machine Learning Operations  MLOpsを含む機械学習全般に関する活用など網羅的にまとまったサイト   MLOps: Continuous delivery and automation pipelines in machine learning  GoogleによるMLOpsのlevel毎のゴール（取り組み）を示した記事   The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction  MLシステムを定量的に評価する指標としてML Test Scoreを導入し計測した論文   Machine Learning operations maturity model  MicrosoftによるMLOpsの成熟度を定性的に示した記事   ゆるふわMLOps入門  日本語で書かれたMLOpsへの取り組み要素を1つ1つ丁寧に紹介した記事    プレゼンテーション  Amazon SageMakerでつくるMLOps -効率的な機械学習の開発・運用環境- MLOpsの始め方 機械学習エンジニアのためのMLOps入門 先駆者に学ぶMLOpsの実際</description>
+      <description>Contents Guides Practices MLOps projects 勉強会 Conferences 書籍 References Guides MLOpsがどういったものかを理解する上で読んでおくと良い記事や発表資料 ブログ記事 Machine Learning Operations MLOpsを含む機械学習全般に関する活用など網羅的にまとまったサイト MLOps: Continuous delivery and automation pipelines in machine learning GoogleによるMLOpsのlevel毎のゴール（取り組み）を示した記事 The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction MLシステムを定量的に評価する指標としてML Test Scoreを導入し計測した論文 Machine Learning operations maturity model MicrosoftによるMLOpsの成熟度を定性的に示した記事 ゆるふわMLOps入門 日本語で書かれたMLOpsへの取り組み要素を1つ1つ丁寧に紹介した記事 プレゼンテーション Amazon SageMakerでつくるMLOps -効率的な機械学習の開発・運用環境- MLOpsの始め方 機械学習エンジニアのためのMLOps入門 先駆者に学ぶMLOpsの実際 Practices All in one ブログ記事 KARTEにおけるMLOpsの変遷 - 2022 PLAID 検索アルゴリズム改善における機械学習の活用 ~MLOpsについて~ - 2022 ぐるなび バンダイナムコグループの機械学習機能を実現するML基盤について - 2022 BANDAI NAMCO オンライン機械学習サービスとしてGCP Vertex AIのMLOpsを導入した話 - 2021 eureka MLOpsはじめました - 2021 enigmo ヤフーのAIプラットフォーム紹介 ~ AI開発をより手軽に - 2021 Yahoo!</description>
     </item>
     
     <item>
@@ -23,7 +22,7 @@ Guides  MLOpsがどういったものかを理解する上で読んでおくと�
       <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
       
       <guid>https://masatakashiwagi.github.io/mlops-practices/tips/</guid>
-      <description>Tips  under construction  </description>
+      <description>Tips under construction </description>
     </item>
     
   </channel>
